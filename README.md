@@ -3,11 +3,13 @@ Documentation and examples for the maven-o11n-package plugin
 
 Here as a personal reference and has no tie to the creator of the plugin
 
+[Read more words!](docs/more_words.md)
+
 ### Goals:
-* o11n-package:build-package
-* o11n-package:export-package
-* o11n-package:import-package
-* o11n-package:build-package
+* [o11n-package:build-package](docs/build-package.md)
+* [o11n-package:export-package](docs/export-package.md)
+* [o11n-package:import-package](docs/import-package.md)
+* [o11n-package:run-workflow](docs/run-workflow.md)
 
 This help text can also be obtained interactivly with the following command:
 
