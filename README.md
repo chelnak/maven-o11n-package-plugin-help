@@ -3,8 +3,6 @@ Documentation and examples for the maven-o11n-package plugin
 
 Here as a personal reference and has no tie to the creator of the plugin
 
-[Read more words!](docs/more_words.md)
-
 ### Goals:
 * [o11n-package:build-package](docs/build-package.md)
 * [o11n-package:export-package](docs/export-package.md)
